@@ -1,0 +1,23 @@
+{
+	"songs": [
+		["Sussus Moogus", "impostor", [255, 0, 0]],
+		["Sabotage", "impostor", [255, 0, 0]],
+		["Meltdown", "impostor2", [255, 0, 0]]
+	],
+
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "",
+
+	"storyName": "impostor",
+	"weekBefore": "Week 0",
+	"weekName": "Week 1",
+        "difficulties": "Hard",
+	"startUnlocked": true,
+
+	"hideStoryMode": true,
+	"hideFreeplay": false
+}
